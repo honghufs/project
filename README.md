@@ -1,6 +1,6 @@
 # project
 
-honghufs가 공유한 repository
+honghufs가 관리하는 repository
 
-라인 추가
-또 추가
+myset.py: Set implementation with list
+
